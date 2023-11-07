@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.linearlayout_02"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.linearlayout_02"

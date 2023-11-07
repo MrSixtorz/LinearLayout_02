@@ -11,10 +11,7 @@
         android:layout_width="24dp"
         android:layout_height="wrap_content"
         android:layout_weight="1"
-        android:src="@tools:sample/avatars"
-        app:srcCompat="@drawable/Circuloycuadrado"
-        tools:ignore="ImageContrastCheck"
-        android:contentDescription="@string/Circuloycuadrado" />
+        app:srcCompat="@drawable/imagen" />
 
     <LinearLayout
         android:layout_width="wrap_content"
